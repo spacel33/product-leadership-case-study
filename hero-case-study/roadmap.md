@@ -49,3 +49,8 @@ It balances:
 - Long‑term architectural health  
 
 Each phase delivers value independently while building toward a more resilient system.
+
+---
+
+**Next Section:**  
+➡️ [PRD](prd.md)
