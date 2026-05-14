@@ -1,57 +1,58 @@
-# Product Leadership Case Study – Spacelee Stephens
+# Product Leadership Case Study Portfolio  - Spacelee Stephens
+![Status](https://img.shields.io/badge/Status-Active-blue)  
+![Role](https://img.shields.io/badge/Role-Senior%20Product%20Manager-purple)  
+![Last Updated](https://img.shields.io/badge/Updated-May%202026-orange)
 
-This repository showcases how I think, lead, and deliver as a Senior Product Manager.  
-It centers on one flagship, end‑to‑end case study demonstrating my ability to drive a complex, technical product initiative from ambiguity → clarity → execution → measurable impact.
+## Quick Summary for Recruiters
+I’m a Senior Product Manager specializing in reliability, platform performance, and complex technical systems.  
+This portfolio highlights how I lead cross-functional initiatives from ambiguity → clarity → execution → measurable impact.  
+If you're short on time, start with the **Hero Case Study Summary** and **Outcomes**.
 
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
-![Status: Active](https://img.shields.io/badge/Status-Active-blue.svg)
-![Role: Senior Product Manager](https://img.shields.io/badge/Role-Senior%20Product%20Manager-purple.svg)
+---
 
-## 🔥 Hero Case Study
-**Improving Messaging Reliability & Reducing Latency for a High‑Scale B2B Platform**  
-A deep dive into discovery, strategy, roadmap, PRD, execution, and outcomes.
-
-Start here:  
-➡️ [`hero-case-study/README.md`](hero-case-study/README.md)
-## Table of Contents
-- [Hero Case Study](hero-case-study/README.md)
-- [Discovery & Root Cause Analysis](hero-case-study/discovery.md)
-- [Strategy](hero-case-study/strategy.md)
-- [Roadmap](hero-case-study/roadmap.md)
-- [PRD](hero-case-study/prd.md)
-- [Execution](hero-case-study/execution.md)
-- [Outcomes](hero-case-study/outcomes.md)
-
-### 📄 Copy‑Paste This Into Your Root README.md
-
-```markdown
 ## How to Read This Portfolio
-If you're a hiring manager or recruiter, start with the **Hero Case Study**.  
-It demonstrates how I lead complex, technical product initiatives from ambiguity → clarity → execution → measurable impact.
+This portfolio is designed to help hiring managers, recruiters, and product leaders quickly understand how I think, lead, and deliver impact.
+
+If you're short on time:
+- Start with the **Hero Case Study Summary** for a fast overview.
+- Jump to **Outcomes** to see measurable impact.
 
 If you want depth:
-- **Discovery** shows how I diagnose reliability issues.
+- **Discovery** shows how I diagnose complex, ambiguous problems.
 - **Strategy** shows how I structure decisions and tradeoffs.
 - **Roadmap** shows how I sequence work for impact and risk reduction.
 - **PRD** shows how I define requirements clearly and concisely.
-- **Execution** shows cross-functional leadership.
-- **Outcomes** shows measurable business and technical impact.
+- **Execution** shows cross-functional leadership and decision-making.
+- **Outcomes** shows business and technical impact, plus reflection.
 
-## 📂 Supporting Materials
-- Additional mini case studies  
-- PRDs  
-- Roadmaps  
-- Stakeholder communication samples  
-- Decision and discovery frameworks  
+If you want to understand how I operate as a product leader:
+- Read **My Product Philosophy**.
+- Explore the **Frameworks** folder for reusable thinking models.
+- Review the **Stakeholder Communication Example** to see how I drive alignment.
 
-## 🎯 What This Portfolio Demonstrates
-- Product strategy under ambiguity  
-- Technical depth across messaging, telecom, cloud, and network stack  
-- Cross‑functional leadership  
-- Data‑driven decision making  
-- Clear communication and structured thinking  
-- Ability to ship meaningful outcomes  
+---
 
-## 📬 Contact
-- **LinkedIn:** https://www.linkedin.com/in/spacelee  
-- **Location:** Alameda, CA  
+## Table of Contents
+- [Hero Case Study](hero-case-study/README.md)
+- [My Product Philosophy](product-philosophy.md)
+- [Frameworks](frameworks/decision-frameworks.md)
+- [Stakeholder Communication Example](stakeholder-communication.md)
+
+---
+
+## Case Studies
+### ⭐ Hero Case Study  
+**Improving Message Delivery Reliability and Reducing End‑to‑End Latency for an Enterprise B2B Messaging Platform**  
+➡️ `hero-case-study/README.md`
+
+---
+
+## About This Portfolio
+This repository is intentionally structured to demonstrate:
+- Senior-level product thinking  
+- Technical depth in distributed systems  
+- Cross-functional leadership  
+- Clear communication  
+- Measurable impact  
+
+Feel free to reach out to share thoughts or ask questions on any of these sections with me https://www.linkedin.com/in/spacelee
