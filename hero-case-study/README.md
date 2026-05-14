@@ -28,7 +28,12 @@ It includes:
 - PRD  
 - Execution  
 - Outcomes  
-- What I’d do differently  
+- What I’d do differently
+
+---
+
+**Next Section:**  
+➡️ [Discovery](discovery.md)
 
 ### 📄 Files
 - [`discovery.md`](discovery.md)
