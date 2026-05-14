@@ -56,3 +56,8 @@ Enterprise customers are experiencing unpredictable message delivery times and e
   **Mitigation:** Gradual rollout with feature flags  
 - **Risk:** Carrier routing changes may introduce regressions  
   **Mitigation:** A/B routing with shadow traffic  
+
+---
+
+**Next Section:**  
+➡️ [Execution](execution.md)
