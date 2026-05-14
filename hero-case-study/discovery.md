@@ -77,3 +77,8 @@ The breakthrough insight was that **reliability issues were not caused by a sing
 This meant the solution couldn’t be a patch or a feature — it needed to be a **multi‑phase reliability initiative** focused on stabilization, predictability, and observability.
 
 This discovery work directly informed the strategy, roadmap, and PRD that followed.
+
+---
+
+**Next Section:**  
+➡️ [Execution](execution.md)
