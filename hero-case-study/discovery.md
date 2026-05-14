@@ -65,6 +65,19 @@ Routing decisions weren’t optimized for carrier performance, and the system la
 
 ---
 
+flowchart TD
+    A[Message Sent] --> B{Delivery Success?}
+    B -->|Yes| C[Confirm Delivery]
+    B -->|No| D[Retry Attempt 1]
+    D --> E{Success?}
+    E -->|Yes| C
+    E -->|No| F[Retry Attempt 2]
+    F --> G{Success?}
+    G -->|Yes| C
+    G -->|No| H[Backoff + Queue]
+    H --> I[Final Failure Logged]
+
+
 ## 4. Insight That Shaped the Strategy
 The breakthrough insight was that **reliability issues were not caused by a single failure point**, but by the interaction of:
 
