@@ -81,4 +81,4 @@ This discovery work directly informed the strategy, roadmap, and PRD that follow
 ---
 
 **Next Section:**  
-➡️ [Execution](execution.md)
+➡️ [Strategy](strategy.md)
