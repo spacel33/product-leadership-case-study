@@ -35,3 +35,8 @@ Execution required tight coordination across engineering, SRE, data, and custome
 - Strong cross‑functional alignment  
 - Transparent communication  
 - Data‑driven decision making  
+
+---
+
+**Next Section:**  
+➡️ [Outcomes](outcomes.md)
