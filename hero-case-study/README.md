@@ -22,6 +22,7 @@ flowchart LR
     D --> E[Delivery Confirmation]
     C --> F[Retry Logic]
     B --> G[Monitoring & Alerts]
+```
 
 ---
 
