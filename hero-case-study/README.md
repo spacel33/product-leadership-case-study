@@ -33,7 +33,7 @@ It includes:
 ---
 
 **Next Section:**  
-➡️ [Discovery](discovery.md)
+➡️ [Discovery & Root Cause](discovery.md)
 
 ### 📄 Files
 - [`discovery.md`](discovery.md)
