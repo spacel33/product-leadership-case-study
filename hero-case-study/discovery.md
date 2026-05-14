@@ -65,6 +65,7 @@ Routing decisions weren’t optimized for carrier performance, and the system la
 
 ---
 
+```mermaid
 flowchart TD
     A[Message Sent] --> B{Delivery Success?}
     B -->|Yes| C[Confirm Delivery]
@@ -76,7 +77,7 @@ flowchart TD
     G -->|Yes| C
     G -->|No| H[Backoff + Queue]
     H --> I[Final Failure Logged]
-
+```
 
 ## 4. Insight That Shaped the Strategy
 The breakthrough insight was that **reliability issues were not caused by a single failure point**, but by the interaction of:
